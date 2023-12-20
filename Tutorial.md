@@ -62,4 +62,5 @@ The application should be available under http://localhost:4000/
 
 #### 2. Writing some basic game logic
 
-Before working with `Phoenix`, we can write some `Elixir` code to warm up and get familiar with the language. Since the game logic is agnostic of the framework specification we can start writing it.
+Before working with `Phoenix`, we can write some `Elixir` code to warm up and get familiar with the language. Since the game logic is agnostic of the framework specification we can start writing it, and writing some tests on the side.
+
